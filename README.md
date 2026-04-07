@@ -1,0 +1,1 @@
+This project implements a complete AXI4-FULL verification environment using UVM (Universal Verification Methodology). It is designed to replicate real-world SoC verification scenarios, including out-of-order transactions, protocol compliance, and performance analysis.
